@@ -1,4 +1,4 @@
-package Easy;
+package Leetcode.Easy;
 // https://leetcode.com/problems/contains-duplicate/description/
 import java.util.HashSet;
 

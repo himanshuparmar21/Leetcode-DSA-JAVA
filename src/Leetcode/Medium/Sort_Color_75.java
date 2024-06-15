@@ -1,4 +1,4 @@
-package Medium;
+package Leetcode.Medium;
 // https://leetcode.com/problems/sort-colors/
 public class Sort_Color_75 {
     public void sortColors(int[] nums) {

@@ -1,4 +1,4 @@
-package Easy;
+package Leetcode.Easy;
 // https://leetcode.com/problems/length-of-last-word/description/
 public class Length_Of_Last_Word_58 {
 //    public int lengthOfLastWord(String s) {

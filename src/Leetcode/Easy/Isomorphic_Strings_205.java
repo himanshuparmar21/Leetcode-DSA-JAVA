@@ -1,4 +1,4 @@
-package Easy;
+package Leetcode.Easy;
 // https://leetcode.com/problems/isomorphic-strings/description/
 public class Isomorphic_Strings_205 {
     public boolean isIsomorphic(String s, String t) {

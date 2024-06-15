@@ -1,4 +1,4 @@
-package Medium;
+package Leetcode.Medium;
 
 public class Split_Two_String_To_Make_Palindrom {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Easy;
+package Leetcode.Easy;
 
 import java.util.Arrays;
 // https://leetcode.com/problems/apple-redistribution-into-boxes/

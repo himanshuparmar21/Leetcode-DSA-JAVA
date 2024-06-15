@@ -1,4 +1,4 @@
-package Easy;
+package Leetcode.Easy;
 // https://leetcode.com/problems/find-the-middle-index-in-array/
 public class Find_The_Middle_index_In_Array_1991 {
     public int findMiddleIndex(int[] nums) {

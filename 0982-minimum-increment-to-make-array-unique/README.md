@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique">982. Minimum Increment to Make Array Unique</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>. In one move, you can pick an index <code>i</code> where <code>0 &lt;= i &lt; nums.length</code> and increment <code>nums[i]</code> by <code>1</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-increment-to-make-array-unique">982. Minimum Increment to Make Array Unique</a></h2><h3>Leetcode.Medium</h3><hr><p>You are given an integer array <code>nums</code>. In one move, you can pick an index <code>i</code> where <code>0 &lt;= i &lt; nums.length</code> and increment <code>nums[i]</code> by <code>1</code>.</p>
 
 <p>Return <em>the minimum number of moves to make every value in </em><code>nums</code><em> <strong>unique</strong></em>.</p>
 

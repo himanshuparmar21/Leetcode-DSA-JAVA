@@ -1,4 +1,4 @@
-package Hard;
+package Leetcode.Hard;
 
 //https://leetcode.com/problems/split-array-largest-sum/description/
 public class SplitArrayLargestSum_410 {

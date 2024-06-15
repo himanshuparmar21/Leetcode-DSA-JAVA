@@ -1,4 +1,4 @@
-package Medium;
+package Leetcode.Medium;
 
 public class Semntance_Ssimilarity_III {
     public static void main(String[] args) {

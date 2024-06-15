@@ -1,4 +1,4 @@
-package Easy;
+package Leetcode.Easy;
 // https://leetcode.com/problems/next-greater-element-i/
 public class Next_Greater_Element_I_496 {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {

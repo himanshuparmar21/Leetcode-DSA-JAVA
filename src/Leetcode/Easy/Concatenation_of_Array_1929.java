@@ -1,4 +1,4 @@
-package Easy;
+package Leetcode.Easy;
 // https://leetcode.com/problems/concatenation-of-array/description/
 public class Concatenation_of_Array_1929 {
     public int[] getConcatenation(int[] nums) {

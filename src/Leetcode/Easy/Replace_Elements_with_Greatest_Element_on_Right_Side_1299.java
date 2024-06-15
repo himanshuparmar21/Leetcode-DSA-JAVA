@@ -1,4 +1,4 @@
-package Easy;
+package Leetcode.Easy;
 
 // https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/description/
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package Easy;
+package Leetcode.Easy;
 // https://leetcode.com/problems/remove-element/description/
 public class Remove_Element_27 {
     public int removeElement(int[] nums, int val) {

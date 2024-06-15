@@ -1,4 +1,4 @@
-package Medium;
+package Leetcode.Medium;
 
 public class Repeated_String_Match {
     public static void main(String[] args) {

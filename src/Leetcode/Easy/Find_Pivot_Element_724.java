@@ -1,4 +1,4 @@
-package Easy;
+package Leetcode.Easy;
 // https://leetcode.com/problems/find-pivot-index/description/
 public class Find_Pivot_Element_724 {
     public int findMiddleIndex(int[] nums) {

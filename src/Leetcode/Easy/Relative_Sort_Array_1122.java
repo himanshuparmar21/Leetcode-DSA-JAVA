@@ -1,4 +1,4 @@
-package Easy;
+package Leetcode.Easy;
 // https://leetcode.com/problems/relative-sort-array/
 public class Relative_Sort_Array_1122 {
     public int[] relativeSortArray(int[] arr1, int[] arr2) {
