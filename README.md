@@ -8,6 +8,7 @@
 | [0502-ipo](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0502-ipo) |
 | [0217-contains-duplicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
+| [0330-patching-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0330-patching-array) |
 
 
 # Hash Table
@@ -30,6 +31,7 @@
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
