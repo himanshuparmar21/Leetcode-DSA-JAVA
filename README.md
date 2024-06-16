@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [1297-maximum-number-of-balloons](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1619-path-crossing](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1619-path-crossing) |
 # Binary Search
 |  |
 | ------- |
@@ -51,3 +52,4 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [1297-maximum-number-of-balloons](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1619-path-crossing](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1619-path-crossing) |
