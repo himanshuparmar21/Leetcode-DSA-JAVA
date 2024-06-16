@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0242-valid-anagram) |
 # Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0502-ipo](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Counting
@@ -42,3 +44,7 @@
 |  |
 | ------- |
 | [0502-ipo](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0502-ipo) |
+# String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0242-valid-anagram) |
