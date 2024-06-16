@@ -17,6 +17,7 @@
 | [0242-valid-anagram](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [1297-maximum-number-of-balloons](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1619-path-crossing](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1619-path-crossing) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 # Binary Search
 |  |
 | ------- |
@@ -53,3 +54,4 @@
 | [0242-valid-anagram](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [1297-maximum-number-of-balloons](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1619-path-crossing](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1619-path-crossing) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
