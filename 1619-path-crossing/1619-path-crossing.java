@@ -1,27 +1,22 @@
 class Solution {
     public boolean isPathCrossing(String path) {
-       Set<String> visited = new HashSet<>();
-        int x = 0, y = 0;
-        visited.add(x + "," + y);
-        for (char move : path.toCharArray()) {
-            switch (move) {
-                case 'N':
-                    y += 1;
-                    break;
-                case 'S':
-                    y -= 1;
-                    break;
-                case 'E':
-                    x += 1;
-                    break;
-                case 'W':
-                    x -= 1;
-                    break;
+        Set<String> visited = new HashSet<>();
+        int row = 0, col = 0;
+        visited.add(row + "," + col);
+        for(char ch : path.toCharArray()){
+            if(ch == 'N'){
+                row++;
+            }else if(ch == 'E'){
+                col++;
+            }else if(ch == 'S'){
+                row--;
+            }else{
+                col--;
             }
-            if (!visited.add(x + "," + y)) {
+            if (!visited.add(row + "," + col)) {
                 return true; 
             }
-        }
-        return false;  
+        }  
+        return false;
     }
 }
