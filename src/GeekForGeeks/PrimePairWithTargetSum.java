@@ -1,13 +1,12 @@
+package GeekForGeeks;
+
 import java.util.*;
 
-class Demo {
-    public static void main(String[] args) {
-        System.out.println(getPrimes(10));
-    }
+public class PrimePairWithTargetSum {
     public static ArrayList<Integer> getPrimes(int n) {
 
-        for(int i=2;i<=n;i++){
-            if(isPrime(i) && isPrime(n-i) && (i < n-i)){
+        for(int i=2;i<=(n/2)+1;i++){
+            if(isPrime(i) && isPrime(n-i) && (i <= n-i)){
                 return new ArrayList<>(Arrays.asList(i,n-i));
             }
         }
