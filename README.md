@@ -7,6 +7,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0502-ipo](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0502-ipo) |
 | [0217-contains-duplicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 
 
 # Hash Table
@@ -32,6 +33,7 @@
 | [0502-ipo](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 # Sorting
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | [0242-valid-anagram](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0502-ipo](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [3231-minimum-number-of-coins-to-be-added](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 # Counting
 |  |
 | ------- |
