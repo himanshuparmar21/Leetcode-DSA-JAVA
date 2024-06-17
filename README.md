@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -60,3 +61,11 @@
 | [1297-maximum-number-of-balloons](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1619-path-crossing](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+# Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
+# Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
