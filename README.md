@@ -10,6 +10,7 @@
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [0330-patching-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0330-patching-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3034-points-that-intersect-with-cars](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 
 
 # Hash Table
@@ -21,6 +22,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1619-path-crossing](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [3034-points-that-intersect-with-cars](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 # Binary Search
 |  |
 | ------- |
@@ -74,3 +76,7 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+# Prefix Sum
+|  |
+| ------- |
+| [3034-points-that-intersect-with-cars](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
