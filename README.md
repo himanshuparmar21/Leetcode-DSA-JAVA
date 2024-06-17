@@ -9,6 +9,7 @@
 | [0217-contains-duplicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [0330-patching-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0330-patching-array) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 
 
 # Hash Table
@@ -69,3 +70,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
+# Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
