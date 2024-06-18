@@ -11,6 +11,7 @@
 | [0330-patching-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0330-patching-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+| [0853-most-profit-assigning-work](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0853-most-profit-assigning-work) |
 
 
 # Hash Table
@@ -28,6 +29,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0853-most-profit-assigning-work) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | ------- |
 | [0330-patching-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
@@ -46,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0502-ipo](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0502-ipo) |
+| [0853-most-profit-assigning-work](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 # Counting
@@ -72,6 +76,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0853-most-profit-assigning-work) |
 # Enumeration
 |  |
 | ------- |
