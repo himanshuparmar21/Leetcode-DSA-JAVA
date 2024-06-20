@@ -12,6 +12,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3034-points-that-intersect-with-cars](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [0853-most-profit-assigning-work](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 
 
 # Hash Table
@@ -30,6 +31,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | [0502-ipo](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0502-ipo) |
 | [0853-most-profit-assigning-work](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1675-magnetic-force-between-two-balls](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 # Counting
 |  |
