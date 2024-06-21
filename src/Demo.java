@@ -2,33 +2,25 @@ import java.util.*;
 
 class Demo {
     public static void main(String[] args) {
-        System.out.println(longestConsecutive(new int[]{100,4,200,1,3,2}));
+        System.out.println(maxSatisfied(new int[]{4,10,10},new int[]{1,1,0},2));
     }
-        static int longestConsecutive(int[] nums) {
-            List<Integer> set = new ArrayList<>();
-
-            int min = Integer.MAX_VALUE;
-            int max = Integer.MIN_VALUE;
-
-            for(int num : nums){
-                set.add(num);
-                min = Math.min(min,num);
-                max = Math.max(max,num);
+    static public int maxSatisfied(int[] customers, int[] grumpy, int minutes) {
+        int temp = 0;
+        for(int i=0;i<customers.length;i++){
+            if(grumpy[i]==0){
+                temp += customers[i];
             }
-
-            Collections.sort(set);
-            int count = 0;
-            int ans = 0;
-            while(min<=max){
-                if(set.contains(min)){
-                    count++;
-                }else{
-                    count = 0;
+        }
+        int finalAns = 0;
+        for (int i = 0; i < customers.length-minutes+1; i++) {
+            int t = temp;
+            for (int j = i; j < minutes+i; j++) {
+                if(grumpy[j]==1) {
+                    t += customers[j];
                 }
-                ans = Math.max(ans,count);
-                min++;
             }
-            return count;
-
+            finalAns = Math.max(finalAns,Math.max(temp,t));
+        }
+        return finalAns;
     }
 }
