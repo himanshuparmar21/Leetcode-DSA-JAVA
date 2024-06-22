@@ -13,6 +13,7 @@
 | [3034-points-that-intersect-with-cars](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
 | [0853-most-profit-assigning-work](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 
 
 # Hash Table
@@ -22,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [1297-maximum-number-of-balloons](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1619-path-crossing](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [3034-points-that-intersect-with-cars](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 # Two Pointers
 |  |
 | ------- |
@@ -88,3 +91,7 @@
 |  |
 | ------- |
 | [3034-points-that-intersect-with-cars](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3034-points-that-intersect-with-cars) |
+# Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
