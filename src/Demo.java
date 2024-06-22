@@ -1,26 +1,25 @@
+import java.math.BigInteger;
 import java.util.*;
 
 class Demo {
     public static void main(String[] args) {
-        System.out.println(maxSatisfied(new int[]{4,10,10},new int[]{1,1,0},2));
+        System.out.println(numberOfSubarrays(new int[]{2,2,2,1,2,2,1,2,2,2},2));
     }
-    static public int maxSatisfied(int[] customers, int[] grumpy, int minutes) {
-        int temp = 0;
-        for(int i=0;i<customers.length;i++){
-            if(grumpy[i]==0){
-                temp += customers[i];
-            }
-        }
-        int finalAns = 0;
-        for (int i = 0; i < customers.length-minutes+1; i++) {
-            int t = temp;
-            for (int j = i; j < minutes+i; j++) {
-                if(grumpy[j]==1) {
-                    t += customers[j];
+    static public int numberOfSubarrays(int[] nums, int k) {
+        int ans = 0;
+
+        for (int i = 0; i < nums.length; i++) {
+            int count = 0;
+            for (int j = i; j < nums.length; j++) {
+                if(nums[i] % 2 != 0){
+                    count++;
+                }
+                if(count==k){
+                    ans++;
+                    count=0;
                 }
             }
-            finalAns = Math.max(finalAns,Math.max(temp,t));
         }
-        return finalAns;
+        return ans;
     }
 }
