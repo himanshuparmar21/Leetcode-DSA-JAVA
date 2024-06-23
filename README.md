@@ -14,6 +14,7 @@
 | [0853-most-profit-assigning-work](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [0643-maximum-average-subarray-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 
 
 # Hash Table
@@ -94,4 +95,5 @@
 # Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
