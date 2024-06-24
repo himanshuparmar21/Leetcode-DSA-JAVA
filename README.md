@@ -23,6 +23,7 @@
 | [0001-two-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0535-encode-and-decode-tinyurl](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1297-maximum-number-of-balloons](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1619-path-crossing](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1619-path-crossing) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0535-encode-and-decode-tinyurl](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1297-maximum-number-of-balloons](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1619-path-crossing](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1619-path-crossing) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
@@ -97,3 +99,11 @@
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+# Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+# Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
