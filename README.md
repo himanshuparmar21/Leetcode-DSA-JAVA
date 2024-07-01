@@ -116,3 +116,10 @@
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
