@@ -124,11 +124,13 @@
 | [0349-intersection-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1293-three-consecutive-odds) |
+| [2331-intersection-of-multiple-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2331-intersection-of-multiple-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,4 +146,9 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2331-intersection-of-multiple-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
+## Counting
+|  |
+| ------- |
+| [2331-intersection-of-multiple-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
