@@ -166,6 +166,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2645-pass-the-pillow](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [0371-sum-of-two-integers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
 | ------- |
