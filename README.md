@@ -165,18 +165,21 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2645-pass-the-pillow](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0067-add-binary) |
 | [2645-pass-the-pillow](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0067-add-binary](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -184,6 +187,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
