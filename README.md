@@ -165,6 +165,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [2645-pass-the-pillow](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -179,4 +180,12 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
