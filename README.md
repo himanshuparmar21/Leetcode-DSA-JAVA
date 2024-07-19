@@ -123,6 +123,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1293-three-consecutive-odds](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -169,6 +170,7 @@
 | [0067-add-binary](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2645-pass-the-pillow](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
