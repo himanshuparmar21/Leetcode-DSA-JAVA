@@ -123,6 +123,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1293-three-consecutive-odds](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -136,6 +137,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0349-intersection-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2634-minimum-common-value](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2634-minimum-common-value) |
 ## Two Pointers
