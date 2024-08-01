@@ -132,6 +132,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2331-intersection-of-multiple-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2634-minimum-common-value](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2634-minimum-common-value) |
+| [2727-number-of-senior-citizens](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [0008-string-to-integer-atoi](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0067-add-binary) |
+| [2727-number-of-senior-citizens](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Backtracking
 |  |
 | ------- |
