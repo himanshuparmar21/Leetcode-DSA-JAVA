@@ -203,6 +203,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
@@ -232,4 +233,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0948-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
