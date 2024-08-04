@@ -121,6 +121,7 @@
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -154,6 +156,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2634-minimum-common-value](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2634-minimum-common-value) |
@@ -204,6 +207,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Recursion
 |  |
