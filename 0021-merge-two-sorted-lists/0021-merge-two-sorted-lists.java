@@ -24,17 +24,22 @@ class Solution {
             }
             
         }
-
-        while(list1 != null){
-            head.next = new ListNode(list1.val);
-            head = head.next;
-            list1 = list1.next;
+        if(list1 != null){
+            head.next = list1;
         }
-        while(list2 != null){
-            head.next = new ListNode(list2.val);
-            head = head.next;
-            list2 = list2.next;
+        if(list2 != null){
+            head.next = list2;
         }
+        // while(list1 != null){
+        //     head.next = new ListNode(list1.val);
+        //     head = head.next;
+        //     list1 = list1.next;
+        // }
+        // while(list2 != null){
+        //     head.next = new ListNode(list2.val);
+        //     head = head.next;
+        //     list2 = list2.next;
+        // }
         return ans.next;
     }
 }
