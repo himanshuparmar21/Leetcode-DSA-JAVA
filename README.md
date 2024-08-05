@@ -139,6 +139,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
