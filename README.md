@@ -148,6 +148,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -252,6 +253,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
