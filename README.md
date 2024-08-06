@@ -189,6 +189,7 @@
 | [0371-sum-of-two-integers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2645-pass-the-pillow](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -255,6 +256,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
