@@ -151,6 +151,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -222,6 +223,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -258,9 +260,14 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1765-merge-in-between-linked-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
