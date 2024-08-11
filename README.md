@@ -9,6 +9,7 @@
 | [0206-reverse-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0838-design-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0838-design-linked-list) |
+| [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -37,4 +38,21 @@
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0838-design-linked-list) |
+| [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
+## Array
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
+## Stack
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
