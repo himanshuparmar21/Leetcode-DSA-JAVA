@@ -11,6 +11,7 @@
 | [0148-sort-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0838-design-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
