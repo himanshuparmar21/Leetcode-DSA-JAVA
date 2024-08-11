@@ -8,6 +8,7 @@
 | [0148-sort-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0838-design-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
