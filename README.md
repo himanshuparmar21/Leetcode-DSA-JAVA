@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0175-combine-two-tables) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Two Pointers
 |  |
 | ------- |
