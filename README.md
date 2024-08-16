@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0175-combine-two-tables) |
+| [1153-product-sales-analysis-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1837-daily-leads-and-partners](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1948-rearrange-products-table](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1948-rearrange-products-table) |
