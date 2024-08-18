@@ -31,6 +31,7 @@
 | [1837-daily-leads-and-partners](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1948-rearrange-products-table](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1948-rearrange-products-table) |
+| [2041-the-latest-login-in-2020](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2041-the-latest-login-in-2020) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Two Pointers
 |  |
