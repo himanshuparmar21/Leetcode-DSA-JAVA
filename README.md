@@ -30,6 +30,7 @@
 | [0627-swap-salary](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1258-article-views-i) |
+| [1523-capital-gainloss](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1523-capital-gainloss) |
 | [1625-group-sold-products-by-the-date](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1734-bank-account-summary-ii) |
 | [1837-daily-leads-and-partners](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1837-daily-leads-and-partners) |
