@@ -72,6 +72,7 @@
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0860-design-circular-queue](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0860-design-circular-queue) |
+| [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
 | [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
@@ -121,9 +122,18 @@
 ## Math
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
