@@ -29,6 +29,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0182-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0610-triangle-judgement](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0610-triangle-judgement) |
 | [0627-swap-salary](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1153-product-sales-analysis-i) |
