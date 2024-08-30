@@ -39,6 +39,7 @@
 | [1625-group-sold-products-by-the-date](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1734-bank-account-summary-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1734-bank-account-summary-ii) |
 | [1837-daily-leads-and-partners](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1837-daily-leads-and-partners) |
+| [1877-find-followers-count](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1877-find-followers-count) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1948-rearrange-products-table](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2041-the-latest-login-in-2020) |
