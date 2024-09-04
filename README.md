@@ -78,6 +78,7 @@
 | [0035-search-insert-position](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0860-design-circular-queue) |
 | [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
@@ -152,4 +153,8 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0792-binary-search) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
