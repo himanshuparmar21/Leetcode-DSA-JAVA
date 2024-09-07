@@ -6,13 +6,10 @@ class Solution {
             if(sum>=k){
                 min_length=Math.min(min_length,r-l+1);
             }
-            while(sum>k){
+            while(sum>=k){
                 min_length=Math.min(min_length,r-l+1);
                 sum-=arr[l];
                 l++;
-            }
-            if(sum == k){
-                min_length=Math.min(min_length,r-l+1);
             }
             r++;
         }
