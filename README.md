@@ -52,6 +52,7 @@
 | [0061-rotate-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0874-backspace-string-compare](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
 ## Divide and Conquer
 |  |
@@ -79,6 +80,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0503-next-greater-element-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -147,6 +149,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
