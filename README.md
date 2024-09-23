@@ -83,6 +83,7 @@
 | [0189-rotate-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0792-binary-search) |
