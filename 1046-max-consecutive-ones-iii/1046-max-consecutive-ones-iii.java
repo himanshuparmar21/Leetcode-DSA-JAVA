@@ -8,11 +8,14 @@ class Solution {
             if(nums[r] == 0){
                 zero++;
             }
-            while(zero>k){
-                if(nums[l]==0) zero--;
+            if(zero<=k){
+                ans = Math.max(ans,(r-l+1));
+            }else{
+                if(nums[l]==0){
+                    zero--;
+                }
                 l++;
             }
-            ans = Math.max(ans,(r-l+1));
             r++;
         }
         return ans;
