@@ -90,6 +90,7 @@
 | [0860-design-circular-queue](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0860-design-circular-queue) |
 | [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -127,6 +128,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## String
@@ -155,6 +157,7 @@
 | [0189-rotate-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
+| [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
@@ -185,6 +188,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
@@ -192,6 +196,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
 |  |
