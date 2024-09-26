@@ -3,7 +3,7 @@ class Solution {
         return atMostKsum(nums,goal) - atMostKsum(nums,goal-1);
     }
     int atMostKsum(int[] nums,int goal){
-        if(goal<0) return 0;
+        if(goal<0) return 0; // This is Bcz Array Contains only 0,1 That Why Can not Find <0 sum
         int start = 0;
         int ans = 0;
 
@@ -12,12 +12,9 @@ class Solution {
             sum += nums[i];
 
             while (sum > goal){
-                sum -= nums[start];
-                start++;
+                sum -= nums[start++];
             }
-            if(sum <= goal){
-                ans += (i-start+1);
-            }
+            ans += (i - start + 1);
         }
         return ans;
     }
