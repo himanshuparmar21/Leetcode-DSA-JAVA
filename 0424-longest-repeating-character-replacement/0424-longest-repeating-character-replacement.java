@@ -14,7 +14,6 @@ class Solution {
                 ch = s.charAt(start);
                 map.put(ch,map.getOrDefault(ch,0)-1);
                 start++;
-                change = (i-start+1) - max;
                 if(map.get(ch)==0){
                     map.remove(ch);
                 }
