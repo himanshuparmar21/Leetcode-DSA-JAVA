@@ -10,14 +10,10 @@ class Solution {
             map.put(ch,map.getOrDefault(ch,0)+1);
             max = Math.max(max,map.get(ch));
             int change = (i-start+1) - max;
-            while (change > k){
+            if (change > k){
                 ch = s.charAt(start);
                 map.put(ch,map.getOrDefault(ch,0)-1);
-                for (char key : map.keySet()){
-                    max = Math.max(max,map.get(key));
-                }
                 start++;
-                change = (i-start+1) - max;
                 if(map.get(ch)==0){
                     map.remove(ch);
                 }
