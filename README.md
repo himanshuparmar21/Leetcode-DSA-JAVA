@@ -101,6 +101,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -206,6 +208,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
