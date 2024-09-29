@@ -107,6 +107,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Stack
 |  |
 | ------- |
@@ -229,6 +230,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
 |  |
 | ------- |
