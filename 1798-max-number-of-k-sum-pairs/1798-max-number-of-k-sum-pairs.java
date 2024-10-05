@@ -1,22 +1,21 @@
 class Solution {
     public int maxOperations(int[] nums, int k) {
-        int n = nums.length;
         Arrays.sort(nums);
-        int count = 0;
-
-        int start = 0;
-        int end = n - 1;
-
-        while (start < end){
-            int temp = nums[start] + nums[end];
-            if(temp==k){
+        int i=0;
+        int j=nums.length-1;
+        int count=0;
+        while(i<j){
+            int sum=nums[i]+nums[j];
+            if(sum==k){
                 count++;
-                start++;
-                end--;
-            } else if (temp > k) {
-                end--;
-            }else {
-                start++;
+                i++;
+                j--;
+            }
+            else if(sum<k){
+                i++;
+            }
+            else{
+                j--;
             }
         }
         return count;
