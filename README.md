@@ -58,6 +58,7 @@
 | [0567-permutation-in-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1923-sentence-similarity-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
@@ -115,6 +116,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1923-sentence-similarity-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -181,6 +183,7 @@
 | [0874-backspace-string-compare](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2470-removing-stars-from-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
