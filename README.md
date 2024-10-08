@@ -59,6 +59,7 @@
 | [0874-backspace-string-compare](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1923-sentence-similarity-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Divide and Conquer
@@ -132,6 +133,7 @@
 | [0503-next-greater-element-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
 | [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -185,6 +187,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2470-removing-stars-from-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -285,4 +288,8 @@
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0729-my-calendar-i) |
+## Greedy
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
