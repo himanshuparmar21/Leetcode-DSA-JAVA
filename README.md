@@ -119,6 +119,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1923-sentence-similarity-iii) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -173,6 +174,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -297,4 +299,8 @@
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
