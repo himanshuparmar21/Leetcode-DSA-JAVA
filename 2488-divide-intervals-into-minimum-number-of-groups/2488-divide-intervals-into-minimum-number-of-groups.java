@@ -1,6 +1,6 @@
 class Solution {
     public int minGroups(int[][] intervals) {
-        int[] temp = new int[10000000];
+        int[] temp = new int[1000002];
         Arrays.fill(temp,0);
 
         int ans = Integer.MIN_VALUE;
@@ -13,7 +13,7 @@ class Solution {
             temp[end+1] += -1;
         }
 
-        for (int i = 1; i < 10000000; i++) {
+        for (int i = 1; i < 1000002; i++) {
             temp[i] += temp[i-1];
             ans = Math.max(ans,temp[i-1]);
         }
