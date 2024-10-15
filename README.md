@@ -125,6 +125,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2066-add-minimum-number-of-rungs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -312,6 +313,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2066-add-minimum-number-of-rungs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
