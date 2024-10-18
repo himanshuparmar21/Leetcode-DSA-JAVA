@@ -127,6 +127,7 @@
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2066-add-minimum-number-of-rungs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2066-add-minimum-number-of-rungs) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -296,6 +297,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Counting
 |  |
 | ------- |
@@ -334,4 +336,12 @@
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
