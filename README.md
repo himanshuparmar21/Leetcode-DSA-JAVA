@@ -75,6 +75,7 @@
 | [0148-sort-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0807-custom-sort-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0807-custom-sort-string) |
 | [1256-rank-transform-of-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -177,6 +178,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0807-custom-sort-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0807-custom-sort-string) |
 | [0940-fruit-into-baskets](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -201,6 +203,7 @@
 | [0125-valid-palindrome](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0567-permutation-in-string) |
+| [0807-custom-sort-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0807-custom-sort-string) |
 | [0874-backspace-string-compare](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1304-longest-happy-string) |
