@@ -146,6 +146,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -367,6 +368,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -378,12 +380,14 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
