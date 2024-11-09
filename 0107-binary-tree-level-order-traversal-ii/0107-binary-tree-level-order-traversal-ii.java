@@ -37,8 +37,9 @@ class Solution {
                     queue.offer(node.right);
                 }
             }
-            ans.add(currentList);
+            ans.add(0,currentList);
         }
-        return ans.reversed();
+        return ans;
+        // return ans.reversed();
     }
 }
