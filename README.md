@@ -380,6 +380,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -390,6 +391,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -404,6 +406,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
@@ -416,6 +419,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1035-cousins-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Trie
