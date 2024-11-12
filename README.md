@@ -71,6 +71,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -103,6 +104,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -382,6 +384,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -431,6 +434,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -493,6 +497,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0975-range-sum-of-bst) |
