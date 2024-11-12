@@ -219,6 +219,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0567-permutation-in-string) |
+| [0606-construct-string-from-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0807-custom-sort-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
@@ -398,6 +399,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -451,6 +453,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -482,6 +485,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0606-construct-string-from-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0904-leaf-similar-trees) |
