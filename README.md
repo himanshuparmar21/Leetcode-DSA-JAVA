@@ -141,6 +141,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -204,6 +205,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -308,6 +310,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
