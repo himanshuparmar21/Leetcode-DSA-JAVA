@@ -148,6 +148,7 @@
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -253,6 +254,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [0909-stone-game](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0909-stone-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -375,6 +378,7 @@
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
 | ------- |
