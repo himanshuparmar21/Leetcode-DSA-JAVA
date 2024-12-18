@@ -127,6 +127,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -163,6 +164,7 @@
 | [0503-next-greater-element-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0874-backspace-string-compare](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1582-design-browser-history) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2470-removing-stars-from-a-string](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -260,6 +262,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/himanshuparmar21/DSA-Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Math
 |  |
